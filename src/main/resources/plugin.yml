@@ -1,0 +1,10 @@
+name: Block_Xray
+version: '${project.version}'
+main: com.github.falledcan.block_xray.Block_Xray
+api-version: 1.19
+authors: [ falled_can ]
+description: This is for monitoring and please do not abuse it
+depend: [ParticleNativeAPI]
+commands:
+  xray:
+    usage: /xray
